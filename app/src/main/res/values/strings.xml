@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">BatteryLevelIndicator</string>
+    <string name="app_name">Battery Level Indicator</string>
     <string name="hello_world">Battery</string>
 </resources>
